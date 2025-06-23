@@ -124,4 +124,6 @@ So, analyzying this information, i can answer on the main question - How do annu
 
 - Trip length and weekday preference are the main differences between annual members and casual riders. To make some advices, how to increase amount of member customers and make service more popular needs more data and analyze to get an answer.
 - To make advices company need collect more data, not only about data and time, but maybe about prices, and at least get data, that includes whole year statistics, not only january-march period, because it is not enough to make a conclusion.
+- Also the data that was given to me includes stop staion's name, and customer's gender, we can use it in the future too, surely. To understand whish stations are the most popeular, to increase abount of bikes there or mayber change routes, where customers can ride. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable.
+- Also company can ofer ot customers some equipment. For exmaple GPS or helmet that makes trip more safe and comfortable. They can offer some discounts and use digital ewuipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has question or probles, this person can easily have a contact with company's support team.
 
