@@ -6,6 +6,6 @@ Excel link
 
 Screenshots of work:
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![image-1](https://github.com/user-attachments/assets/dcf6d621-31c4-4f7e-ad25-8168d09478bb)
+![image-2](https://github.com/user-attachments/assets/b6f3517d-38cc-4d50-854b-07e4f5d85bcc)
+![image](https://github.com/user-attachments/assets/27522fe6-f996-46d1-b2c7-576a8f414a54)
