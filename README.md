@@ -148,3 +148,8 @@ With this in mind, I can answer the main question - How do annual members and ca
 - Also the data that was given to me includes stop station's name, and customer's gender, we can use it in the future too, surely. To understand whish stations are the most popular, to increase about of bikes there or maybe change routes, where customers can ride. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable.
 - Also company can offer to customers some equipment. For example GPS or helmet that makes trip more safe and comfortable. They can offer some discounts and use digital equipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has a question or problems, this person can easily have a contact with company's support team.
 
+### Links to Excel
+
+1. [Trips made in 2019](https://docs.google.com/spreadsheets/d/1MEXQ_LBFf0TwIeriK8xKO6pmEHnBJY3MIDDwT1op_YE/edit?gid=797951180#gid=797951180)
+
+2. [Trips made in 2020](https://docs.google.com/spreadsheets/d/1h-F8kwbz_W4l2HbzFt76WqZjcdqmxMi_HOMoGQPCTE8/edit?gid=640449855#gid=640449855)
