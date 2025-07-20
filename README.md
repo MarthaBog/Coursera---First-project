@@ -1,4 +1,4 @@
-# Project 1 - Bycicles
+# Project 1 - Bicycles
 
 ## Scenario
 
@@ -97,33 +97,54 @@ Includes questions:
 
 1. What story my data really tell?
 2. How do my findings relate to my original questions?
-3. Does my visualization correctly can exmplainf my findings and answers?
+3. Does my visualization correctly can explain my findings and answers?
 
 Here i will use **R** because of big amount of data i can't make any visualizations in spreadsheets, so it will be easier to use R.
 I will create table for visualization and write about the most important findings.
 
-- I made bar chart table, which shows how many trips were made by usertype totaaly by month in both years.
+- I made bar chart table, which shows how many trips were made by usertype totally by month in both years.
   
 Also I will use ****Spreadsheets** to make some graphics.
 
-- I made one pie chart, which displays amount of sutomers totally by usertype and bar chart which shows amount of customers by month and year, not including usertype.
+- I made one pie chart, which displays amount of customers totally by usertype and bar chart which shows amount of customers by month and year, not including usertype.
 
 ## Step 6 - Act
 
 My final conclusion and presentation to the team.
 I have to answer main questions and explain them. Also explain what next steps can be based on my findings and is there additional data and questions for future i can use in the future (surely if is it needed)
 
-### Results
+### Findings
 
-At the end, i can make conclusion:
-Was discovered how many cutomers totally were using company's service and most of them were member customers - which are 93.7% of all customers. Mostly of them prefer use bicycle service in March month, about 150 000 of member customers were making trips at this month and less than 25 000 of casual customers at the same time. Second place of popularity was given to January - about 100 000 member customers and aproximately 5 000 casual customers used bicycles for trips. 
-Comparing yeras, 2019 has more differ between month of using servis, speaking of amount of all customaers, not comparing usertype. Record amount was made at march of 2019 - 165 110 customers totally, but in january - 103 272 and in february - 96 186 at all. Whenever at 2020 in these 3 months amount of people was similar, January - 143 418, February - 139 585 and in March - 143 884.
-Also was discovered, that in 2019 the most popular weekday for making trips was Thursday, but in 2020 - Tuesday. 
-Average of trip length in 2019 was 16 minutes, while in 2020 this number was increased to 22 minutes. Also we know that average of both years of trip length by usertype is - member - 13 minutes and usual customer - 1 hour and 25  minutes and usually member customer prefers rent a trip about 1pm, while usual customer - at 2pm.
-So, analyzying this information, i can answer on the main question - How do annual members and casual riders use Cyclistic bikes differently?
+1. Most customers were members, they make up **93.7% of all customers.** 
+
+<img src="./images/customers_usertype.jpg" width="400" height="250">
+
+2. Most popular month is **March** for both **members** and **casual customers**.
+
+<img src="./images/trips_usertype.jpg" width="400" height="300">
+
+3. Second most popular month is **January** - about **100 000 member customers** and approximately **5 000 casual customers** used bicycles for trips. 
+
+4. **2019** had more variation between months, not taking usertype into account. **Record amount was made at march of 2019 - 165 110 customers in total**, but in **January - 103 272** and in **February - 96 186**. 
+
+4. During **2020** amount of customers was similar across all months, **January - 143 418, February - 139 585 and in March - 143 884.**
+
+<img src="./images/customers_month_year.jpg" width="400" height="250">
+
+5. During **2019 the most popular weekday** for making trips was **Thursday**, but in **2020 - Tuesday**.
+
+6. **Average** trip length in **2019 was 16 minutes**, while in **2020** this number was increased to **22 minutes**. 
+
+7. **Average** trip length over both years by usertype is - **member - 13 minutes** and **usual customer - 1 hour and 25  minutes**.
+
+8. Usually **member customer** prefers to rent a trip at about **1pm**, while **usual customer - at 2pm**
+
+With this in mind, I can answer the main question - How do annual members and casual riders use Cyclistic bikes differently?
+
+### Conclusion
 
 - Trip length and weekday preference are the main differences between annual members and casual riders. To make some advices, how to increase amount of member customers and make service more popular needs more data and analyze to get an answer.
-- To make advices company need collect more data, not only about data and time, but maybe about prices, and at least get data, that includes whole year statistics, not only january-march period, because it is not enough to make a conclusion.
-- Also the data that was given to me includes stop staion's name, and customer's gender, we can use it in the future too, surely. To understand whish stations are the most popeular, to increase abount of bikes there or mayber change routes, where customers can ride. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable.
-- Also company can ofer ot customers some equipment. For exmaple GPS or helmet that makes trip more safe and comfortable. They can offer some discounts and use digital ewuipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has question or probles, this person can easily have a contact with company's support team.
+- To make advices company need collect more data, not only about data and time, but maybe about prices, and at least get data, that includes whole year statistics, not only January-March period, because it is not enough to make a conclusion.
+- Also the data that was given to me includes stop station's name, and customer's gender, we can use it in the future too, surely. To understand whish stations are the most popular, to increase about of bikes there or maybe change routes, where customers can ride. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable.
+- Also company can offer to customers some equipment. For example GPS or helmet that makes trip more safe and comfortable. They can offer some discounts and use digital equipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has a question or problems, this person can easily have a contact with company's support team.
 
