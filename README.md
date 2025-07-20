@@ -104,7 +104,7 @@ I will create table for visualization and write about the most important finding
 
 - I made bar chart table, which shows how many trips were made by usertype totally by month in both years.
   
-Also I will use ****Spreadsheets** to make some graphics.
+Also I will use **Spreadsheets** to make some graphics.
 
 - I made one pie chart, which displays amount of customers totally by usertype and bar chart which shows amount of customers by month and year, not including usertype.
 
