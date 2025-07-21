@@ -139,14 +139,19 @@ I have to answer main questions and explain them. Also explain what next steps c
 
 8. Usually **member customer** prefers to rent a trip at about **1pm**, while **usual customer - at 2pm**
 
-With this in mind, I can answer the main question - How do annual members and casual riders use Cyclistic bikes differently?
-
 ### Conclusion
 
-- Trip length and weekday preference are the main differences between annual members and casual riders. To make some advices, how to increase amount of member customers and make service more popular needs more data and analyze to get an answer.
-- To make advices company need collect more data, not only about data and time, but maybe about prices, and at least get data, that includes whole year statistics, not only January-March period, because it is not enough to make a conclusion.
-- Also the data that was given to me includes stop station's name, and customer's gender, we can use it in the future too, surely. To understand whish stations are the most popular, to increase about of bikes there or maybe change routes, where customers can ride. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable.
-- Also company can offer to customers some equipment. For example GPS or helmet that makes trip more safe and comfortable. They can offer some discounts and use digital equipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has a question or problems, this person can easily have a contact with company's support team.
+With this in mind, I can answer the main question - How do annual members and casual riders use Cyclistic bikes differently?
+- Trip length and weekday preference are the main differences between annual members and casual riders. 
+
+My recommendations to the team for increasing member's amount:
+1.  Company need collect more data, not only about data and time, but maybe about prices, and at least get data, that includes whole year statistics, not only January-March period, to make reliable and actual conclusion.
+2.  Also the data that was given to me includes stop station's name, and customer's gender, that can be used in the future too, surely. 
+To understand whish stations are the most popular and increase amount of bikes there. 
+3. Search for events and collaborate with companies that organize them, suggest bike service to clients and make them some discount.
+4. Use marketing strategies and discounts - for example, if clients purchase a three-month service package they get a cheaper offer.
+5. Use information about gender: for example, make different types of bike, differently for women and men, that make customer feel more comfortable (colors, physics comfort, size).
+5. Also company can offer to customers some equipment. For example GPS or helmet or digital equipment, like AI detectors, for following routes where people usually ride or make support chat, if somebody has a question or problem. 
 
 ### Links to Excel
 
